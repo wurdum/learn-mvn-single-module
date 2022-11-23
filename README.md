@@ -5,5 +5,5 @@ To build the project, run the following command:
 
 ```sh
 cd ./learn-mvn-single-module
-mvn clean package && java -jar ./target/my-app-1.0-SNAPSHOT-jar-with-dependencies.jar
+vn clean package && java -jar ./target/my-app-1.0-SNAPSHOT.jar
 ```
